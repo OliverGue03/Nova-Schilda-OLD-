@@ -1,3 +1,8 @@
-## Drohnensystem für die Stadt Nova Schilda
+# Sample GitLab Project
 
-Hierbei handelt es sich um ein Projekt aus dem dritten Semester an der [TH Aschaffenburg](https://www.th-ab.de/) für das Fach "Algorithmen und Datenstrukturen". Diese originale Prüfungsleistung ist als Teamleistung mit der Hilfe von Maximilian Sgodin entstanden. Die neue, von mir refaktorisierte Version, finden Sie [hier](https://github.com/OliverGue03/REFACTORED-AlgoDat-Projekt). Das Drohnensystem wurde in der Sprache _Python_ ohne die Hilfe von externen Libraries verfasst.
+This sample project shows how a project in GitLab looks for demonstration purposes. It contains issues, merge requests and Markdown files in many branches,
+named and filled with lorem ipsum.
+
+You can look around to get an idea how to structure your project and, when done, you can safely delete this project.
+
+[Learn more about creating GitLab projects.](https://docs.gitlab.com/ee/gitlab-basics/create-project.html)
